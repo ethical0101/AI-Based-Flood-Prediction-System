@@ -1,0 +1,36 @@
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated report assets (unnecessary source control files)
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+
+# Generated images and intermediate outputs
+accuracy_comparison.png
+confusion.png
+workflow.png
+report_metrics.json
+
+# Unused/helper scripts
+fix_columns.py
+generate_report_assets.py
