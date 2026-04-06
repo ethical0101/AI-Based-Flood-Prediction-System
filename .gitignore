@@ -6,6 +6,13 @@ __pycache__/
 .venv/
 venv/
 
+# Ppt genrater File
+generate_presentation.py
+# PPT
+AI_Based_Flood_Prediction_System_Presentation.pptx
+# PPT assets
+/ppt_assets
+
 # Jupyter
 .ipynb_checkpoints/
 
