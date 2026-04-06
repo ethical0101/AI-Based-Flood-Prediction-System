@@ -1,0 +1,17 @@
+
+Final Model: Gradient Boosting
+Model Type: GradientBoostingClassifier
+Number of Features: 23
+Training Samples: 249
+Test Samples: 63
+
+Performance Metrics:
+  - Accuracy:  0.6825
+  - Precision: 0.5556
+  - Recall:    0.4545
+  - F1 Score:  0.5000
+
+Files Created:
+  - Gradient_Boosting_flood_predictor.pkl
+  - feature_scaler.pkl
+  - feature_names.pkl
