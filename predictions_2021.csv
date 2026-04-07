@@ -1,0 +1,5 @@
+Year,Month_Raw,Month_Normalized,Predicted_Flood_Label,Flood_Probability,Predicted_Class
+2021,15,3,1,0.7818,Flood
+2021,11,11,1,0.7588,Flood
+2021,9,9,1,0.9276,Flood
+2021,2,2,1,0.7804,Flood
